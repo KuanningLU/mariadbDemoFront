@@ -7,7 +7,15 @@
 - **Node.js** 
 - **Vue 3**
 - **Vite** 
+- **Element Plus**
+- 
+- ## 選用技術
+- **Vue 3**
+- **TypeScript** 
+- **Vite** 
 - **Element Plus** 
+- **Axios** 
+
 
 ## 安裝套件
 ### 1. 安裝依賴
@@ -30,15 +38,9 @@ export const enum apis{
 npm run dev
 ```
 
-## 選用技術
-- **Vue 3**
-- **TypeScript** 
-- **Vite** 
-- **Element Plus** 
-- **Axios** 
 
 ## 建置
-### 1. 建置專案
+###  建置專案
 ```sh
 npm run build
 ```
